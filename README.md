@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Sobre mim
-Fisioterapeuta por 9 anos, migrando pra área tech! Me formei no curso da Trybe, dev front-end, me especializando em Flutter.
+Fisioterapeuta por 9 anos, migrando pra área tech! Estudei um ano na Trybe, cursando Análise e Desenvolvimento de Sistemas, dev front-end, me especializando em Flutter.
 
 
 #
